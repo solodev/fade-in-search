@@ -5,7 +5,7 @@ In this tutorial, [Solodev](https://www.solodev.com/) shows how to implement fad
 
 ## Tutorials
 
-For detailed instructions, view Solodev's [Creating an Action Grid Slider on your Website](https://www.solodev.com/blog/web-design/adding-a-fade-in-search-form.stml) article.
+For detailed instructions, view Solodev's [Adding a Fade-in Search Form](https://www.solodev.com/blog/web-design/adding-a-fade-in-search-form.stml) article.
 
 ## Demo
 
